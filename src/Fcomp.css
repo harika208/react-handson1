@@ -1,0 +1,10 @@
+.csspart{
+    margin: 143px;
+    height:219px;
+    width:475px;
+    border:2px solid black;
+    border-radius: 30px;
+    background-color: rgb(101, 196, 233);
+    text-align: center;
+}
+

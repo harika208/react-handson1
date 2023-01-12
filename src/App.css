@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+}
+
+body{
+  height: 650px;
+  background: linear-gradient(rgb(115, 170, 225),pink,rgb(226, 216, 216));
+
+
+}
+
+#btn1{
+  padding: 10px;
+  border-radius: 30px;
+  background-color: rgb(101, 214, 229);
+  height:50px;
+  width:272px;
+  margin-left: 407px;
+  margin-top: 20px;
+  }
+
+  #btn1:hover{
+    background-color:rgb(198, 235, 240) ;
+  }
+  
+#btn2{
+  padding: 10px;
+  border-radius: 30px;
+  background-color: rgb(101, 214, 229);
+  height:50px;
+  width:272px;
+  margin-left: 40px;
+  }
+#btn2:hover{
+    background-color:rgb(198, 235, 240) ;
+  }
+#head{
+  text-shadow: 2px 2px rgb(246, 19, 204);
+  text-align: center;
+}
+
+#flex{
+  display: flex;
+  justify-content: space-around;
+}
